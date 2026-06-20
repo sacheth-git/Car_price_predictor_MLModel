@@ -220,7 +220,7 @@ if predict_btn:
     
 
     st.markdown("---")
-    st.subheader("Tips to Get Better Price")
+   
     
     
 else:
